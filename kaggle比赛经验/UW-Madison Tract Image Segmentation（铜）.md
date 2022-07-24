@@ -60,6 +60,12 @@ https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation/discu
 
 https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation/discussion/337197
 
+### 5st
+
+模型融合怪，各种模型融合，全是2.5D，然后3DUnet融合。
+
+https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation/discussion/337268
+
 ### 总结
 
 还是要先判断哪些slice有标记，然后分割，多模型ensemble。
